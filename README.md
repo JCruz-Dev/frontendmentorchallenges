@@ -3,18 +3,18 @@ This repo contains links to various projects about HTML/CSS/JS challenges and mo
 
 ## Newbie Challenges
 
-Article preview component
+#### Article preview component
 >  - Challenge: https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT
 >  - Repo: https://github.com/juank1791/frontend-mentor-article-challenge
 >  - Live project: https://frontendmentor-article-challenge.netlify.app/
 
-Coding bootcamp testimonials slider
+#### Coding bootcamp testimonials slider
 >  - Challenge: https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL
 >  - Repo: https://github.com/juank1791/frontendmentor-coding-bootcamp
 >  - Live project: https://frontendmentor-coding-bootcamp.vercel.app/
 
 ## Junior Challenges
-Fylo data storage component
+#### Fylo data storage component
 >  - Challenge: https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n
 >  - Repo: https://github.com/juank1791/frontend-mentor-fylo-data-storage
 >  - Live project: https://fylo-data-storage-component-master-red.vercel.app
