@@ -1,7 +1,7 @@
 # Frontend Mentor Challenges
 This repo contains links to various projects about HTML/CSS/JS challenges and more from Frontend Mentor.
 
-## Newbie Challenges
+## 🔶 Newbie Challenges
 
 #### Article preview component
 >  - Challenge: https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT
@@ -18,7 +18,7 @@ This repo contains links to various projects about HTML/CSS/JS challenges and mo
 >  - Repo: https://github.com/juank1791/frontendmentor-social-proof
 >  - Live project: https://frontendmentor-social-proof-nine.vercel.app/
 
-## Junior Challenges
+## 🔶 Junior Challenges
 #### Fylo data storage component
 >  - Challenge: https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n
 >  - Repo: https://github.com/juank1791/frontend-mentor-fylo-data-storage
