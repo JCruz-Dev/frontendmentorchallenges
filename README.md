@@ -19,7 +19,7 @@ This repo contains links to various projects about HTML/CSS/JS challenges and mo
 >  - Live project: https://frontendmentor-social-proof-nine.vercel.app/
 
 ## 🔶 Junior Challenges
-#### Fylo data storage component
+#### 🔹 Fylo data storage component
 >  - Challenge: https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n
 >  - Repo: https://github.com/juank1791/frontend-mentor-fylo-data-storage
 >  - Live project: https://fylo-data-storage-component-master-red.vercel.app
