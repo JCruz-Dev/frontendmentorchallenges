@@ -23,3 +23,5 @@ This repo contains links to various projects about HTML/CSS/JS challenges and mo
 >  - [Challenge](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
 >  - [Repo](https://github.com/juank1791/frontend-mentor-fylo-data-storage)
 >  - [Live project](https://fylo-data-storage-component-master-red.vercel.app)
+
+## 🔶 Intermediate Challenges
