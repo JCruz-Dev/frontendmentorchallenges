@@ -25,3 +25,6 @@ This repo contains links to various projects about HTML/CSS/JS challenges and mo
 >  - [Live project](https://fylo-data-storage-component-master-red.vercel.app)
 
 ## 🔶 Intermediate Challenges
+
+#### 🔹 Clock app
+> - Soon..
