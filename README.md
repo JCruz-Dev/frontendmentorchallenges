@@ -18,6 +18,11 @@ This repo contains links to various projects about HTML/CSS/JS challenges and mo
 >  - [Repo](https://github.com/juank1791/frontendmentor-social-proof)
 >  - [Live project](https://frontendmentor-social-proof-nine.vercel.app/)
 
+#### 🔹 Profile card component
+>  - [Challenge](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
+>  - [Repo](https://github.com/LaCremaCode/frontendmentor-profile-card)
+>  - [Live project](https://frontendmentor-profile-card-bice.vercel.app/)
+
 ## 🔶 Junior Challenges
 #### 🔹 Fylo data storage component
 >  - [Challenge](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
