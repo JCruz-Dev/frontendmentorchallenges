@@ -20,8 +20,13 @@ This repo contains links to various projects about HTML/CSS/JS challenges and mo
 
 #### 🔹 Profile card component
 >  - [Challenge](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
->  - [Repo](https://github.com/LaCremaCode/frontendmentor-profile-card)
+>  - [Repo](https://github.com/JCruz-Dev/huddle-landing-page)
 >  - [Live project](https://frontendmentor-profile-card-bice.vercel.app/)
+
+#### 🔹 Article preview component
+>  - [Challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0)
+>  - [Repo](https://github.com/juank1791/frontend-mentor-article-challenge)
+>  - [Live project](https://huddle-landing-page-wheat-psi.vercel.app/)
 
 ## 🔶 Junior Challenges
 #### 🔹 Fylo data storage component
