@@ -25,7 +25,7 @@ This repo contains links to various projects about HTML/CSS/JS challenges and mo
 
 #### 🔹 Huddle landing Page
 >  - [Challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0)
->  - [Repo](https://github.com/juank1791/frontend-mentor-article-challenge)
+>  - [Repo](https://github.com/JCruz-Dev/huddle-landing-page)
 >  - [Live project](https://huddle-landing-page-wheat-psi.vercel.app/)
 
 ## 🔶 Junior Challenges
