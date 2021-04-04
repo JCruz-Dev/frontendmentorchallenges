@@ -28,6 +28,12 @@ This repo contains links to various projects about HTML/CSS/JS challenges and mo
 >  - [Repo](https://github.com/JCruz-Dev/huddle-landing-page)
 >  - [Live project](https://huddle-landing-page-wheat-psi.vercel.app/)
 
+#### 🔹 Single price grid component
+>  - [Challenge](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
+>  - [Repo](https://github.com/JCruz-Dev/frontendmentor-single-price)
+>  - [Live project](https://frontendmentor-single-price-lilac.vercel.app/)
+>  
+
 ## 🔶 Junior Challenges
 #### 🔹 Fylo data storage component
 >  - [Challenge](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
